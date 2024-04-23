@@ -4,7 +4,7 @@ This project is a Netflix clone built using HTML and CSS, aimed at replicating t
 
 ## Live Demo
 
-You can view a live demo of the Starbucks Website Clone [here](https://sagnikbose-11-01.github.io/Netflix-Clone/).
+You can view a live demo of the Website [here](https://sagnikbose-11-01.github.io/Netflix-Clone/).
 
 ## Features:
 1. Responsive design: The clone is designed to adapt to different screen sizes, providing a seamless viewing experience across various devices.
